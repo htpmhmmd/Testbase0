@@ -10,3 +10,4 @@ rug
 raw
 kontrvy
 deployers
+contract
